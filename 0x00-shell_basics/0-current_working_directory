@@ -1,3 +1,2 @@
 #!/bin/bash
-find . -name 0-current_working_directory
 pwd
