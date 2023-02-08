@@ -1,1 +1,2 @@
-clear
+#!/bin/bash
+echo "NON"
